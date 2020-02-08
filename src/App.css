@@ -1,0 +1,59 @@
+.form{
+  width: 80%;
+  height: 400px;
+  background-color: #4696e5;
+  border-radius: 12px;
+  margin:  5% 5%;
+  padding: 2% 2%;
+}
+.text{
+display: flex;
+flex-direction: column;
+margin-left: 80%;
+color: white;
+}
+.champText{
+  width: 80%;
+  border-radius: 4px;
+  height: 30px;
+  margin: 5% 5%
+}
+.add{
+margin-left: 80%;
+width: 5%;
+height: 30px;
+border-radius: 4px;
+}
+hr{
+  width: 150px;
+  
+}
+.main p{
+  display: flex;
+  justify-content: center;
+  font-size: 30px;
+  color: #868686;
+}
+.textdone{
+  display: flex;
+  justify-content: center;
+  color: #868686;
+  font-size: 30px
+}
+hr{
+  width: 20%
+}
+.ligItem{
+  
+  padding: 20px 20px
+}
+.delete{
+  margin: 20px;
+
+}
+.completed{
+  margin: 20px
+}
+.item{
+  text-decoration: line-through;
+}
